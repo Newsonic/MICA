@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="MICA_WEB.MvcApplication" Language="C#" %>
