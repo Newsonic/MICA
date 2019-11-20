@@ -17,5 +17,9 @@ namespace MICA_WEB.Controllers
         {
             return View();
         }
+        public ActionResult IndexAmgaa2()
+        {
+            return View();
+        }
     }
 }
