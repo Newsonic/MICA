@@ -26,5 +26,10 @@ namespace MICA_WEB.Controllers
         {
             return View();
         }
+
+        public ActionResult IndexJagaa()
+        {
+            return View();
+        }
     }
 }
