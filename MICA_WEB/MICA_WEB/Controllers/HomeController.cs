@@ -13,7 +13,7 @@ namespace MICA_WEB.Controllers
             return View();
         }
 
-        public ActionResult IndexAmgaa()
+        public ActionResult IndexAmgaa1()
         {
             return View();
         }
