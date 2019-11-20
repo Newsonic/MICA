@@ -31,5 +31,10 @@ namespace MICA_WEB.Controllers
         {
             return View();
         }
+
+        public ActionResult TaivanChanges()
+        {
+            return View();
+        }
     }
 }
